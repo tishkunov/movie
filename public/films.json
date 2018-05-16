@@ -1,0 +1,72 @@
+{
+  "films": [{
+    "name": "Black panter",
+    "image": "img/films/film2.jpg"
+  }, {
+    "name": "Flock of Four",
+    "image": "img/films/film1.jpg"
+  }, {
+    "name": "Annihilation",
+    "image": "img/films/film3.jpg"
+  }, {
+    "name": "Call me by up name",
+    "image": "img/films/film4.jpg"
+  }, {
+    "name": "Sweet country",
+    "image": "img/films/film5.jpg"
+  }, {
+    "name": "The endless",
+    "image": "img/films/film6.jpg"
+  }
+  , {
+    "name": "The endless",
+    "image": "img/films/film6.jpg"
+  }
+  , {
+    "name": "Strangers on Earth",
+    "image": "img/films/film15.jpg"
+  }
+  , {
+    "name": "Ready player one",
+    "image": "img/films/film16.jpg"
+  },
+   {
+    "name": "Deadpool 2",
+    "image": "img/films/film17.jpg"
+  },
+  {
+    "name": "Samson",
+    "image": "img/films/film12.jpg"
+  }
+  ,
+  {
+    "name": "Titan",
+    "image": "img/films/film13.jpg"
+  }
+  ,
+  {
+    "name": "Aquaman",
+    "image": "img/films/film9.png"
+  }
+  ,
+  {
+    "name": "Venom",
+    "image": "img/films/film8.jpg"
+  }
+  ,
+  {
+    "name": "Avatar 2",
+    "image": "img/films/film7.jpg"
+  }
+  ,
+  {
+    "name": "Rampage",
+    "image": "img/films/film10.jpg"
+  }
+  ,
+  {
+    "name": "The cleanse",
+    "image": "img/films/film14.jpg"
+  }
+  ]
+}

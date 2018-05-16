@@ -1,0 +1,21 @@
+{
+  "films": [{
+    "name": "Black panter",
+    "image": "img/films/film1.jpg"
+  }, {
+    "name": "VVO",
+    "image": "img/films/film2.jpg"
+  }, {
+    "name": "VVO",
+    "image": "img/films/film3.jpg"
+  }, {
+    "name": "VVO",
+    "image": "img/films/film4.jpg"
+  }, {
+    "name": "VVO",
+    "image": "img/films/film5.jpg"
+  }, {
+    "name": "VVO",
+    "image": "img/films/film6.jpg"
+  }]
+}
